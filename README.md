@@ -1,4 +1,5 @@
 a Simple Manifest V2 browser extension that uses YATA API to add a Javascript popup with battle states estimates to the top of profile pages in the online game Torn city
+
 ----
 **How to Use?**
 
