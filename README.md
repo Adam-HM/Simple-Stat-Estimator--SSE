@@ -10,6 +10,7 @@ On Firefox:
 - Click on "Load Temporary Add-on"
 - Load the "manifest.json" file inside of the "manifest V2" folder
 - Click on the extension and add a limited access Torncity API key (preferably your YATA key)
+
  To make it permenant:
 - Go to about:config
 - Search for `xpinstall.signatures.required` and set it to `false`
