@@ -17,3 +17,7 @@ On Chrome:
 - Enable the slider for "Developer options"
 - Click on "Load unpacked" and select the extracted folder
 - Add a limited access Torncity API key to the extension
+---
+**TODO**
+- Switch over to manifest V3
+- Publish as a Firefox Addon 
