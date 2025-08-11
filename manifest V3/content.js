@@ -33,7 +33,7 @@ function sendMessage(message) {
       const store = await getStorage('apiKey');
       const apiKey = store && store.apiKey;
       if (!apiKey) {
-        showError('SSE: No API key set. Click the extension icon and save your YATA key.');
+        showError('SSE: No API key set. Click the extension icon and save a limited access API key.');
         console.warn('[SSE] no apiKey in storage.');
         return;
       }

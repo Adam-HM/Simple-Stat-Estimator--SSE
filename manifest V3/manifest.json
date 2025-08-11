@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Simple Stat Estimator (SSE)",
   "version": "1.2",
-  "description": "Shows YATA battle stat estimates on Torn profile pages. Stores a single API key.",
+  "description": "Shows YATA battle stat estimates on Torn profile pages.",
   "permissions": [
     "storage"
   ],
