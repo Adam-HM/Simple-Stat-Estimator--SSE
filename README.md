@@ -1,5 +1,8 @@
 a Simple browser extension that uses YATA API to add a Javascript popup with battle states estimates to the top of profile pages in the online game Torn city. You'll need to provide a limited access Torncity API key in order to use this, said key is stored locally.
 
+<img src="https://postimg.cc/n9BpB50P" alt="Torn City Profile Page with Battle Stat Estimate Displayed">
+
+
 ----
 **How to Use?**
 
@@ -12,11 +15,13 @@ On Firefox:
 - Click on the extension and add a limited access Torncity API key (preferably your YATA key)
 
  To make it permenant:
-- Go to about:config
-- Search for `xpinstall.signatures.required` and set it to `false`
+- ~~Go to about:config`~~
+- ~~Search for `xpinstall.signatures.required` and set it to `false`~~
+  
+ Better to sign it on addons.mozilla.org (New Dev accounts require 2FA and it's broken atm)
 
 
-On Chrome:
+On ~~Chrome~~ Chromium:
 - Download the files from this repo, extract and use the files from the "manifest **V3**" folder
 - Open up Settings
 - Click on Extensions
